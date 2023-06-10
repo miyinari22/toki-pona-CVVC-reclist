@@ -1,5 +1,5 @@
 ## toki-pona-CVVC-reclist
-Repository for toki pona CVVC reclist for UTAU and other singing synthesizer with CVVC support.
+Repository for toki pona CVVC reclist for [UTAU](http://utau2008.xrea.jp/) and other singing synthesizer with CVVC support.
 
 Recommended recording software: [OREMO](https://pt.osdn.net/users/nwp8861/pf/OREMO/wiki/FrontPage "OREMO") by nwp8861
 
@@ -15,3 +15,7 @@ Coming Soon.
 Since toki pona is a conlang with 120 words (approx.), and [DeepVocal](https://www.deep-vocal.com/) has dictionary feature, I made a dictionary with all with all the words for the toki pona.
 
 Also is included a Phonetic dictionary (dvtb file) & voice.dvcfg file for examples if you want to make a toki pona DeepVocal Voicebank.
+
+## What's toki pona?
+
+Unlike Esperanto, toki pona is a constructed language that favors simplicity over clarity, and touts itself as "the language of good. The simple way of life." You can learn more about the language [here](https://tokipona.org/)
