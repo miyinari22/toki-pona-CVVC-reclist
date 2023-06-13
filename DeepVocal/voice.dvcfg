@@ -31,13 +31,13 @@
       "connectPoint" : 0.05999999865889549,
       "endTime" : 0.9100018702447414,
       "pitch" : "C3",
-      "preutterance" : 0.1499648652970791,
+      "preutterance" : 0.1499648652970790,
       "srcType" : "CV",
       "startTime" : 0.3900631703436375,
       "symbol" : "-e",
-      "tailPoint" : 0.5149386999011040,
+      "tailPoint" : 0.5149386999011039,
       "updateTime" : "2023-06-09 18:49:36",
-      "vowelEnd" : 0.4599387012422085,
+      "vowelEnd" : 0.4599387012422084,
       "vowelStart" : 0.3099344335496426,
       "wavName" : "-e_e_i_e_o_e.wav"
    },
@@ -2115,12 +2115,12 @@
    },
    "C3->en_m" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 0.7599922977387909,
+      "endTime" : 0.7599922977387910,
       "pitch" : "C3",
       "srcType" : "VX",
       "startTime" : 0.4600823558866978,
       "symbol" : "en_m",
-      "tailPoint" : 0.2399099431931976,
+      "tailPoint" : 0.2399099431931977,
       "updateTime" : "2023-06-09 12:21:05",
       "wavName" : "-men_men_men.wav"
    },
@@ -4649,14 +4649,14 @@
    },
    "C3->un_u" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.339774426072836,
+      "endTime" : 0.9899102412164211,
       "pitch" : "C3",
       "srcType" : "VX",
-      "startTime" : 1.139860812574625,
+      "startTime" : 0.7001706399023533,
       "symbol" : "un_u",
-      "tailPoint" : 0.1399136148393154,
-      "updateTime" : "2023-06-09 12:54:23",
-      "wavName" : "-mu_mu_nu_nu.wav"
+      "tailPoint" : 0.2297396026551724,
+      "updateTime" : "2023-06-12 23:57:44",
+      "wavName" : "-un_un_an_un_en_un.wav"
    },
    "C3->un_un" : {
       "connectPoint" : 0.05999999865889549,
