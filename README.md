@@ -6,7 +6,7 @@ Recommended recording software: [OREMO](https://pt.osdn.net/users/nwp8861/pf/ORE
 Recommended BPM: 120
 
 ## Voicebanks
-* Miyi Nari toki pona for DeepVocal: [Google Drive](https://drive.google.com/file/d/1RP5a4X4viYOliWDVpN92g7nF45Nlyuzf/view?usp=drive_link)
+* Miyi Nari toki pona for DeepVocal: [Google Drive](https://drive.google.com/file/d/17Ru8UR22_X9pIM04Tign_riBW9ZilOtv/view?usp=drive_link)
 
 ## UTAU base oto.ini
 Coming Soon.
