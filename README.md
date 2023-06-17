@@ -8,13 +8,15 @@ Recommended BPM: 120
 ## Voicebanks
 * Miyi Nari toki pona for DeepVocal: [Google Drive](https://drive.google.com/file/d/17Ru8UR22_X9pIM04Tign_riBW9ZilOtv/view?usp=drive_link)
 
-## UTAU base oto.ini
-Coming Soon.
+## UTAU
+Recommended configuration tool: [setParam](https://es.osdn.net/downloads/users/11/11877/setParam-english-4.0-b170506.zip/)
 
-## DeepVocal Files
+## DeepVocal
 Since toki pona is a conlang with 120 words (approx.), and [DeepVocal](https://www.deep-vocal.com/) has dictionary feature, I made a dictionary with all with all the words for the toki pona.
 
 Also is included a Phonetic dictionary (dvtb file) & voice.dvcfg file for examples if you want to make a toki pona DeepVocal Voicebank.
+
+Recommended configuration tool: [DeepVocal Toolbox](https://www.deep-vocal.com/)
 
 ## What's toki pona?
 
