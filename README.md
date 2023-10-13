@@ -18,6 +18,9 @@ Also is included a Phonetic dictionary (dvtb file) & voice.dvcfg file for exampl
 
 Recommended configuration tool: [DeepVocal Toolbox](https://www.deep-vocal.com/)
 
+## VocalSharp
+to do
+
 ## What's toki pona?
 
 Unlike Esperanto, toki pona is a constructed language that favors simplicity over clarity, and touts itself as "the language of good. The simple way of life." You can learn more about the language [here](https://tokipona.org/)
